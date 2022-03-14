@@ -1,12 +1,12 @@
-Disusun oleh Kelompok Comment
-Data Sciemce Track B
-MyEduSolve
-
-Andi Muhammad Yusuf
-Deni Riswana
-Muhammad Fadhiil Yusuf
-Shinta Nuriyah Arief
-Tiara Angela Hanami
+Disusun oleh Kelompok Comment</br>
+Data Sciemce Track B</br>
+MyEduSolve</br>
+</br></br>
+Andi Muhammad Yusuf </br>
+Deni Riswana</br>
+Muhammad Fadhiil Yusuf</br>
+Shinta Nuriyah Arief</br>
+Tiara Angela Hanami</br>
 
 
 **Tipe Data pada Python**
