@@ -2,11 +2,13 @@
 Data Sciemce Track B</br>
 MyEduSolve</br>
 </hr>
-Andi Muhammad Yusuf </br>
-Deni Riswana</br>
-Muhammad Fadhiil Yusuf</br>
-Shinta Nuriyah Arief</br>
-Tiara Angela Hanami</br>
+<ul>
+<li>Andi Muhammad Yusuf</li>
+<li>Deni Riswana</li>
+<li>Muhammad Fadhiil Yusuf</li>
+<li>Shinta Nuriyah Arief</li>
+<li>Tiara Angela Hanami</li>
+</ul>
 
 
 # **Tipe Data pada Python**
