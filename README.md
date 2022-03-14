@@ -1,7 +1,7 @@
-Disusun oleh Kelompok Comment</br>
+**Disusun oleh Kelompok Comment</br>**
 Data Sciemce Track B</br>
 MyEduSolve</br>
-</br></br>
+</hr>
 Andi Muhammad Yusuf </br>
 Deni Riswana</br>
 Muhammad Fadhiil Yusuf</br>
@@ -9,7 +9,7 @@ Shinta Nuriyah Arief</br>
 Tiara Angela Hanami</br>
 
 
-**Tipe Data pada Python**
+# **Tipe Data pada Python**
 
 Variabel merupakan tempat menyimpan data, sedangkan tipe data adalah jenis data yang terseimpan dalam variabel. 
 
