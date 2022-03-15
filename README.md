@@ -1,4 +1,6 @@
 **Disusun oleh Kelompok Comment</br>**
+Tipe Data pada Python
+
 Data Sciemce Track B</br>
 MyEduSolve</br>
 </hr>
